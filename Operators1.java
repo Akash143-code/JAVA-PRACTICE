@@ -18,6 +18,7 @@ public class Operators1
        System.out.println("1.bitwise and = "+(a & b));
        System.out.println("2.bitwise or = "+(a | b));
        System.out.println("3. bitwise or = "+(a ^ b));
+       //variable for x and y 
        int x = 30 ,y =20;
        System.out.println("5.bitwise shift = "+(x << y));
        System.out.println("6.bitwise shift = "+(x >> y));
