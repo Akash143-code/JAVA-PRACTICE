@@ -14,7 +14,6 @@ public class TypeCasting
         System.out.println("widening casting(automatic) ---> "+y);
         
         //2.narrowing casting(manual).
-        
         int a =100;
         byte b =-128;
         Object c = (int)b;
