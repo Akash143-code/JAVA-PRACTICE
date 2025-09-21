@@ -1,4 +1,4 @@
-public class ControlStatement
+public class IFStatement
 {
 	public static void main(String[] args)
 	{
