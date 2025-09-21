@@ -1,4 +1,4 @@
-public class IFStatement
+public class IFELSEStatement
 {
 	public static void main(String[] args)
 	{
